@@ -1,0 +1,14 @@
+While doing projects using string in c
+I feel short of function similar to string.split()
+so I created the function and many other which are 
+useful while doing some projects in string manipulation in C.
+
+Check what are the function included in include\myString.h
+
+USE
+just put the lib and include folder in your gcc's lib and include
+
+use #include <myString.h>
+compile using -lstring
+      $ gcc -o main.out main.c -lstring
+
